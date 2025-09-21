@@ -499,7 +499,7 @@ The application includes comprehensive test data:
 
 ### Team Contact
 
-- **Muhammad Haroon ul Hasnain**: haroon.hasnain669@gmail.com | [LinkedIn](https://linkedin.com/in/alex-chen)
+- **Muhammad Haroon ul Hasnain**: haroon.hasnain669@gmail.com | [LinkedIn](https://www.linkedin.com/in/muhammad-haroon-ul-hasnain/)
 - **Muhammad Talha Amjad**:  [LinkedIn](https://www.linkedin.com/in/m-talha-amjad/)  
 - **Tasmia Nadeem**:  [LinkedIn](linkedin.com/in/tasmia-nadeem-763844339)
 
@@ -507,5 +507,5 @@ The application includes comprehensive test data:
 
 **Built with ❤️ for a sustainable future 🌍**
 
-*This project was developed during [Hackathon Name] 2024 with the goal of making climate action more intelligent and coordinated through AI agent collaboration.*
+*This project was developed during [Hackathon](https://lablab.ai/event/internet-of-agents)  2025 with the goal of making climate action more intelligent and coordinated through AI agent collaboration.*
 
