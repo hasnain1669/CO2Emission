@@ -8,3 +8,4 @@ elevenlabs
 requests
 python-dotenv
 pydantic
+streamlit
