@@ -18,9 +18,7 @@ Component structure and flow
 
 *Muhammad Haroon ul Hasnain* - Researcher & Data Analyst
 
-
 *Muhammad Talha Amjad* - Chemical Engineer 
-
 
 *Miss Tasmia Nadeem* - Chemical Engineer & Graphic Designer
 
@@ -51,19 +49,19 @@ Short-term, medium-term, and long-term enhancements
 Contributing guidelines
 Code standards
 
-#### Professional Contact Section
-
-Team member contacts
-Repository links
-Support channels
-
 #### 🌟 Key Highlights:
 ✅ Problem-Solution Fit - Clear climate change problem with AI solution
+
 ✅ Technology Integration - All hackathon tools properly integrated
+
 ✅ Team Expertise - 3 diverse team members with specific roles
+
 ✅ Technical Depth - Architecture diagrams and code examples
+
 ✅ Professional Presentation - Badges, screenshots, and formatting
+
 ✅ Complete Documentation - Installation to advanced usage
+
 ✅ Future Vision - Clear roadmap and enhancement plans
 
 
